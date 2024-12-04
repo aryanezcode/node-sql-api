@@ -80,4 +80,4 @@ app.get("/listSchools", (req, res) => {
 	});
 });
 
-app.listen(3000, () => console.log("Running..."));
+app.listen(process.env.PORT, () => console.log("Running..."));
