@@ -1,1 +1,1 @@
-# node-sql-api
+# Node SQL API
